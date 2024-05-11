@@ -99,3 +99,16 @@ nav ul li a:hover::before{
    margin-top: 70px;
    box-shadow: 5px 8px 10px rgb(0,0,0,0.1);
 }
+.btn{
+    padding: 15px 20px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    transition: .5s ease-in;
+
+}
+.btn:hover{
+    background-color: #d9f688;
+    color: #000;
+    cursor: pointer;
+}
